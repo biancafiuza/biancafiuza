@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biancafiuza
-- 👀 I’m interested in Programming, RPA, Scrum, Agile, Analytics.
+- 👀 I’m interested in Programming, Scrum, Agile, RPA and Analytics.
 - 🌱 I’m currently learning Phyton.
 - ✨ My portfolio is under construction, I´ve been publishing some Dashboards from Financial Markets done on Power BI Desktop.
 - 💞️ I’m looking to collaborate on teams.
